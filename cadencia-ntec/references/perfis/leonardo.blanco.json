@@ -1,0 +1,17 @@
+{
+  "nome": "Leonardo Blanco",
+  "usuario": "leonardo.blanco",
+  "email": "leonardo.blanco@polijunior.com.br",
+  "pipedrive_user_id": 28949967,
+  "apresentacao_whats": "Leonardo Blanco",
+  "estilo": {
+    "saudacao": "Oi",
+    "tudo_bem": true,
+    "emoji": false,
+    "fecho_email": "Abraços!",
+    "sugestao_pos_diag": "auto",
+    "sugestao_pos_aprof": "auto"
+  },
+  "voz_autoral": "Escreve em prosa corrida, sem tópicos nem negrito, direto e cordial. Descreve o que foi feito com os nomes que o cliente usa e fecha com um próximo passo concreto.",
+  "exemplos_autorais": []
+}
