@@ -1,0 +1,17 @@
+{
+  "nome": "Nome Sobrenome",
+  "usuario": "nome.sobrenome",
+  "email": "nome.sobrenome@polijunior.com.br",
+  "pipedrive_user_id": 0,
+  "apresentacao_whats": "Nome Sobrenome",
+  "estilo": {
+    "saudacao": "manter",
+    "tudo_bem": true,
+    "emoji": true,
+    "fecho_email": null,
+    "sugestao_pos_diag": "auto",
+    "sugestao_pos_aprof": "auto"
+  },
+  "voz_autoral": "",
+  "exemplos_autorais": []
+}
